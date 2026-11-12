@@ -13,7 +13,7 @@ void montarVetor()
 void montarNovoVetor()
 {
     int cont = 0;
-    for (int i = 0; i < vetor.Length; i++)
+    for (int i = 0; i < NovoVetor.Length; i++)
     {
         if (i == 0 || i % 2 == 0)
         {
