@@ -1,9 +1,0 @@
-<Solution>
-  <Project Path="funcoes/funcoes.csproj" />
-  <Project Path="PrimosFuncao/PrimosFuncao.csproj" />
-  <Project Path="QuatroVetores/QuatroVetores.csproj" />
-  <Project Path="vetor/vetor.csproj" />
-  <Project Path="VetorChar/VetorChar.csproj" />
-  <Project Path="VetorDobrado/VetorDobrado.csproj" />
-  <Project Path="VetorFibonacci/VetorFibonacci.csproj" />
-</Solution>
